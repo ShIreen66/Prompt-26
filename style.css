@@ -35,13 +35,6 @@ body {
     background-color: #4c4cff;
 }
 
-.flyer-header img {
-    width: 100%;
-    height: auto;
-    border-bottom: 5px solid #3333cc;
-}
-
-
 .flyer-header h1 {
     font-size: 2rem;
     margin-top: 20px;
